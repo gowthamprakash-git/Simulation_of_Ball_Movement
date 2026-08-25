@@ -1,4 +1,4 @@
-in this project, has two ball moving forward and backward with using javascrpit.
+in this project, has two ball moving forward and backward with using javascript.
 
 To run the project, 1: drag the file into the web browser
 
